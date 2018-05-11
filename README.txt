@@ -1,5 +1,3 @@
-# Dao
-
 Aplicacion Java en Jframe
 
 -Seleccione un archivo .txt .
